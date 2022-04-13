@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent {
+    height: 100%;
+    display: flex;
+}
+.child {
+    width: 50%;
+    height: 620px;
+    background: linear-gradient(45deg, #1847FF 0%, #0F72FD 100%);
+    color: rgba(17, 82, 105, 0.647);
+}
